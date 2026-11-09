@@ -1,0 +1,6 @@
+# Enrolment of the NetLicensing MCP server (https://github.com/Labs64/NetLicensing-MCP).
+repo: https://github.com/Labs64/NetLicensing-MCP
+primary_contact: info@labs64.com
+homepage: https://netlicensing.io
+disabled: false
+# The Dockerfile and threat_model.md are next to this file, so dockerfile: and threat_model: are omitted.
